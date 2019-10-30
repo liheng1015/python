@@ -9,3 +9,5 @@ if __name__ == '__main__':
         m=int(m)
         matable(m)
     else:
+        matable(9)
+
